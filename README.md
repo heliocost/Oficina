@@ -11,10 +11,10 @@ Tecnologia de desenvolvimento.
       Jquery.1.11.3
       Bootstrap
 
-      back-end
-        PHP
+    Back-end
+       PHP
         
-      Banco de Dados
+    Banco de Dados
        Mysql
    
    
