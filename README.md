@@ -1,5 +1,6 @@
 # Oficina
-Sistema criado para um controle de uma oficina pequena
+
+Sistema para oficina mecânica e autopeças
 
 
 Tecnologia de desenvolvimento.
